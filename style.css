@@ -17,7 +17,7 @@ background-size: cover;
     background-position: top center;
 }
 
-main > iframe{
+section {
     transform: translate(0px,50px);
     position: absolute;
 }
@@ -31,4 +31,5 @@ main > a{
     border-radius: 10px;
     color:white;
     text-decoration: none;
+    font-size: large;
 }
